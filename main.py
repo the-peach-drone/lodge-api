@@ -31,14 +31,14 @@ async def inference(files: List[UploadFile] = File(...)):
         contents = await file.read()
         with open(os.path.join(UPLOAD_DIRECTORY, file.filename), "wb") as fp:
             fp.write(contents)
+
         img = cv2.imread(os.path.join(UPLOAD_DIRECTORY, file.filename))
-        out = infer(img) > 0.5
-        out = cv2.cvtColor(np.float32(out), cv2.COLOR_GRAY2BGR)
-        out = cv2.cvtColor(np.float32(out), cv2.COLOR_BGR2GRAY)
+        out = np.float(infer(img) > 0.5)
         out = cv2.resize(out, dsize=(img.shape[1], img.shape[0])) * 255
-        # cv2.imwrite("output.png", out*255)
+
         text = base64.b64encode(out)
         texts.append(text)
+        
     return {"output": [text for text in texts]} 
 
 def infer(img):
