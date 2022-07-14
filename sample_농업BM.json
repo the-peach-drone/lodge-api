@@ -1,0 +1,1163 @@
+{
+    "bm_id": 2,
+    "device_name": "DJI",
+    "filepath":"KISTI/4/2/DJI_001.MOV",
+    "image_width": 4000,
+    "image_height": 3000,
+    "FOV": 84,
+    "gps_latitude": [
+        36.0, 
+        34.0, 
+        56.4831
+    ],
+    "gps_longitude": [
+        127.0, 
+        18.0, 
+        30.3894
+    ],
+    "gps_altitude": 52.158,    
+    "datetime": "2020:12:03 10:07:57",
+    "playtime": "00:00:40",
+    "fps": 29.97,
+    "frame_index": 1,
+    "frame_interval": 15,
+    "object_list": [
+        "Infected"
+    ],
+    "obstacle_list": [],
+    "num_object_detected": 113,
+    "object_info": [
+        {
+            "class": "Infected",
+            "probability": 1.00,
+            "coordinate": [
+                896,
+                68,
+                1120,
+                292
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.81,
+            "coordinate": [
+                1120,
+                86,
+                1344,
+                310
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                1344,
+                103,
+                1568,
+                327
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.96,
+            "coordinate": [
+                1120,
+                310,
+                1344,
+                534
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.67,
+            "coordinate": [
+                2016,
+                379,
+                2240,
+                603
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                448,
+                482,
+                672,
+                706
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.98,
+            "coordinate": [
+                896,
+                516,
+                1120,
+                740
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                1120,
+                534,
+                1344,
+                758
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                1568,
+                568,
+                1792,
+                792
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                2016,
+                603,
+                2240,
+                827
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.96,
+            "coordinate": [
+                224,
+                689,
+                448,
+                913
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                448,
+                706,
+                672,
+                930
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                1120,
+                758,
+                1344,
+                982
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                1344,
+                775,
+                1568,
+                999
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                1568,
+                792,
+                1792,
+                1016
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                1792,
+                809,
+                2016,
+                1033
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                672,
+                947,
+                896,
+                1171
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                896,
+                964,
+                1120,
+                1188
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                1120,
+                982,
+                1344,
+                1206
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                1792,
+                1033,
+                2016,
+                1257
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.86,
+            "coordinate": [
+                224,
+                1137,
+                448,
+                1361
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.88,
+            "coordinate": [
+                672,
+                1171,
+                896,
+                1395
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                896,
+                1188,
+                1120,
+                1412
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                1120,
+                1206,
+                1344,
+                1430
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                1568,
+                1240,
+                1792,
+                1464
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                1792,
+                1257,
+                2016,
+                1481
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.98,
+            "coordinate": [
+                2016,
+                1275,
+                2240,
+                1499
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.94,
+            "coordinate": [
+                2464,
+                1309,
+                2688,
+                1533
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.98,
+            "coordinate": [
+                2688,
+                1326,
+                2912,
+                1550
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                448,
+                1378,
+                672,
+                1602
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.98,
+            "coordinate": [
+                672,
+                1395,
+                896,
+                1619
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                896,
+                1412,
+                1120,
+                1636
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                1120,
+                1430,
+                1344,
+                1654
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                1792,
+                1481,
+                2016,
+                1705
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.99,
+            "coordinate": [
+                2016,
+                1499,
+                2240,
+                1723
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.5601181387901306,
+            "coordinate": [
+                2240,
+                1516,
+                2464,
+                1740
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9894344210624695,
+            "coordinate": [
+                672,
+                1619,
+                896,
+                1843
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9997126460075378,
+            "coordinate": [
+                1120,
+                1654,
+                1344,
+                1878
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9434288740158081,
+            "coordinate": [
+                1344,
+                1671,
+                1568,
+                1895
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.999915361404419,
+            "coordinate": [
+                1568,
+                1688,
+                1792,
+                1912
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.999998927116394,
+            "coordinate": [
+                1792,
+                1705,
+                2016,
+                1929
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999009370803833,
+            "coordinate": [
+                2016,
+                1723,
+                2240,
+                1947
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.999913215637207,
+            "coordinate": [
+                2240,
+                1740,
+                2464,
+                1964
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9638185501098633,
+            "coordinate": [
+                2464,
+                1757,
+                2688,
+                1981
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                224,
+                1809,
+                448,
+                2033
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                448,
+                1826,
+                672,
+                2050
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.6333884596824646,
+            "coordinate": [
+                896,
+                1860,
+                1120,
+                2084
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999992847442627,
+            "coordinate": [
+                1120,
+                1878,
+                1344,
+                2102
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                1344,
+                1895,
+                1568,
+                2119
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                1568,
+                1912,
+                1792,
+                2136
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9773804545402527,
+            "coordinate": [
+                1792,
+                1929,
+                2016,
+                2153
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999995231628418,
+            "coordinate": [
+                2016,
+                1947,
+                2240,
+                2171
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9982439279556274,
+            "coordinate": [
+                2240,
+                1964,
+                2464,
+                2188
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9200803637504578,
+            "coordinate": [
+                2464,
+                1981,
+                2688,
+                2205
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.8995600342750549,
+            "coordinate": [
+                0,
+                2016,
+                224,
+                2240
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                224,
+                2033,
+                448,
+                2257
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                448,
+                2050,
+                672,
+                2274
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9737750887870789,
+            "coordinate": [
+                672,
+                2067,
+                896,
+                2291
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9692360162734985,
+            "coordinate": [
+                896,
+                2084,
+                1120,
+                2308
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                1120,
+                2102,
+                1344,
+                2326
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999995231628418,
+            "coordinate": [
+                1568,
+                2136,
+                1792,
+                2360
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9408034086227417,
+            "coordinate": [
+                1792,
+                2153,
+                2016,
+                2377
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.8338390588760376,
+            "coordinate": [
+                2016,
+                2171,
+                2240,
+                2395
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9989877343177795,
+            "coordinate": [
+                2240,
+                2188,
+                2464,
+                2412
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999984502792358,
+            "coordinate": [
+                2464,
+                2205,
+                2688,
+                2429
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9843334555625916,
+            "coordinate": [
+                448,
+                2274,
+                672,
+                2498
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.6164512634277344,
+            "coordinate": [
+                672,
+                2291,
+                896,
+                2515
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9966448545455933,
+            "coordinate": [
+                896,
+                2308,
+                1120,
+                2532
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9313924908638,
+            "coordinate": [
+                1568,
+                2360,
+                1792,
+                2584
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.8268434405326843,
+            "coordinate": [
+                2016,
+                2395,
+                2240,
+                2619
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                2240,
+                2412,
+                2464,
+                2636
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.8822721838951111,
+            "coordinate": [
+                2464,
+                2429,
+                2688,
+                2653
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                672,
+                2515,
+                896,
+                2739
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9996811151504517,
+            "coordinate": [
+                896,
+                2532,
+                1120,
+                2756
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.998658299446106,
+            "coordinate": [
+                1120,
+                2550,
+                1344,
+                2774
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9922742247581482,
+            "coordinate": [
+                1568,
+                2584,
+                1792,
+                2808
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9998668432235718,
+            "coordinate": [
+                1792,
+                2601,
+                2016,
+                2825
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                2016,
+                2619,
+                2240,
+                2843
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                2464,
+                2653,
+                2688,
+                2877
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.8979094624519348,
+            "coordinate": [
+                672,
+                2739,
+                896,
+                2963
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9997935891151428,
+            "coordinate": [
+                1120,
+                2774,
+                1344,
+                2998
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9986481070518494,
+            "coordinate": [
+                1344,
+                2791,
+                1568,
+                3015
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999988079071045,
+            "coordinate": [
+                1568,
+                2808,
+                1792,
+                3032
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999997615814209,
+            "coordinate": [
+                1792,
+                2825,
+                2016,
+                3049
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9578353762626648,
+            "coordinate": [
+                2016,
+                2843,
+                2240,
+                3067
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9997541308403015,
+            "coordinate": [
+                2240,
+                2860,
+                2464,
+                3084
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999712705612183,
+            "coordinate": [
+                2464,
+                2877,
+                2688,
+                3101
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.6315563321113586,
+            "coordinate": [
+                2688,
+                2894,
+                2912,
+                3118
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                0,
+                2912,
+                224,
+                3136
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9304947853088379,
+            "coordinate": [
+                672,
+                2963,
+                896,
+                3187
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999984502792358,
+            "coordinate": [
+                896,
+                2980,
+                1120,
+                3204
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999046325683594,
+            "coordinate": [
+                1120,
+                2998,
+                1344,
+                3222
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.8493549823760986,
+            "coordinate": [
+                1568,
+                3032,
+                1792,
+                3256
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999299049377441,
+            "coordinate": [
+                1792,
+                3049,
+                2016,
+                3273
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9846562743186951,
+            "coordinate": [
+                2464,
+                3101,
+                2688,
+                3325
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999407529830933,
+            "coordinate": [
+                0,
+                3136,
+                224,
+                3360
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                448,
+                3170,
+                672,
+                3394
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                672,
+                3187,
+                896,
+                3411
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                896,
+                3204,
+                1120,
+                3428
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9322026968002319,
+            "coordinate": [
+                1120,
+                3222,
+                1344,
+                3446
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9998981952667236,
+            "coordinate": [
+                1792,
+                3273,
+                2016,
+                3497
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9847567677497864,
+            "coordinate": [
+                2016,
+                3291,
+                2240,
+                3515
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9998440742492676,
+            "coordinate": [
+                0,
+                3360,
+                224,
+                3584
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9990471005439758,
+            "coordinate": [
+                448,
+                3394,
+                672,
+                3618
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9994446635246277,
+            "coordinate": [
+                672,
+                3411,
+                896,
+                3635
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999293088912964,
+            "coordinate": [
+                896,
+                3428,
+                1120,
+                3652
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999997615814209,
+            "coordinate": [
+                1120,
+                3446,
+                1344,
+                3670
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999531507492065,
+            "coordinate": [
+                672,
+                3635,
+                896,
+                3859
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 1.0,
+            "coordinate": [
+                896,
+                3652,
+                1120,
+                3876
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9999932050704956,
+            "coordinate": [
+                1120,
+                3670,
+                1344,
+                3894
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9754241704940796,
+            "coordinate": [
+                1568,
+                3704,
+                1792,
+                3928
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.9980393052101135,
+            "coordinate": [
+                1792,
+                3721,
+                2016,
+                3945
+            ]
+        },
+        {
+            "class": "Infected",
+            "probability": 0.8819546699523926,
+            "coordinate": [
+                2464,
+                3773,
+                2688,
+                3997
+            ]
+        }
+    ],
+    "num_obstacle_detected": 0,
+    "obstacle_info": []
+}
