@@ -35,17 +35,14 @@ async def inference(files: List[UploadFile] = File(...)):
         out = infer(img) > 0.5
         out = cv2.cvtColor(np.float32(out), cv2.COLOR_GRAY2BGR)
         out = cv2.cvtColor(np.float32(out), cv2.COLOR_BGR2GRAY)
-        print(out.max(), out.min())
         out = cv2.resize(out, dsize=(img.shape[1], img.shape[0])) * 255
         # cv2.imwrite("output.png", out*255)
         text = base64.b64encode(out)
-        print(text)
         texts.append(text)
     return {"output": [text for text in texts]} 
 
 def infer(img):
     items = preprocessing_1_4(img)
-    print(items[0].size())
     mergei = []
     for item in items:
         img_r = net(item)
