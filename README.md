@@ -19,6 +19,12 @@ uvicorn main:app --reload --host=0.0.0.0 --port=8000
 
 ### API 관련: Postman Collection
 
+* /inference
+
+입력 - 드론 촬영 이미지
+
+출력 - 분리 마스크 이미지(Base64)
+
 ```json
 {
 	"info": {
